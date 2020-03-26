@@ -4,4 +4,4 @@
 
  - EKS Cluster setup using `Terraform` scripts (Supported)
  - Here is the terraform graph
-   ![eks-graph](graph.png)
+   <img src="graph.png" alt="drawing" style="height:800px;"/>
